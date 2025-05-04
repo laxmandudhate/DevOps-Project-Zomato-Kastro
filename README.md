@@ -1,3 +1,6 @@
+[![Build Status](http://34.9.152.44:8080/buildStatus/icon?job=zomato)](http://34.9.152.44:8080/job/zomato/)
+
+
 # 🚀 **DevOps Project: ZOMATO Clone App Deployment**
 
 In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** using a variety of modern DevOps tools and services.
